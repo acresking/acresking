@@ -1,19 +1,6 @@
-import requests
+def print_cool_message(username):
+    cool_message = f"Hello {username}! Your GitHub profile shines bright like a star. ✨ Keep coding and creating!"
+    print(cool_message)
 
-def get_github_profile(AcrasKing):
-    url = f'https://api.github.com/users/AcrasKing'
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        data = response.json()
-        print(f"GitHub Profile for {AcrasKing}:\n")
-        print(f"Name: {data['AcrasKing']}")
-        print(f"Bio: {data['bio']}")
-        print(f"Followers: {data['followers']}")
-        print(f"Following: {data['following']}")
-        print(f"Public Repositories: {data['public_repos']}")
-    else:
-        print(f"Failed to retrieve GitHub profile for {AcrasKing}. Status code: {response.status_code}")
-
-# Replace 'Acrasking' with the desired GitHub username
-get_github_profile('Acrasking')
+# Replace 'Acrasking' with your desired name
+print_cool_message('Acrasking')
