@@ -21,8 +21,12 @@
 <a href="https://stackoverflow.com/users/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="acrasking" height="30" width="40" /></a>
 <a href="https://codesandbox.com/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="acrasking" height="30" width="40" /></a>
 <a href="https://fb.com/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="acrasking" height="30" width="40" /></a>
-<a href="https://instagram.com/man_nice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="man_nice" height="30" width="40" /></a>
+<a href="https://instagram.com/my_creatuons_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="man_nice" height="30" width="40" /></a>
 <a href="https://discord.gg/AcrasKing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AcrasKing" height="30" width="40" /></a>
+  <a href="https://t.me/AcrasKing" target="[_blank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg)">
+  <img align="center" src="telegram_icon_url" alt="Telegram" height="30" width="30" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
