@@ -3,4 +3,4 @@
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="meir-siman-tov" data-version="v1">
     <a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/meir-siman-tov?trk=profile-badge">Meir Siman Tov</a>
 </div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/meir-siman-tov/)](https://www.linkedin.com/in/meir-siman-tov/)
