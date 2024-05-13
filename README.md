@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E6A8BDD&center=%D7%A9%D7%81%D6%B6%D7%A7%D6%B6%D7%A8&vCenter=%D7%A9%D7%81%D6%B6%D7%A7%D6%B6%D7%A8&repeat=%D7%A0%D6%B8%D7%9B%D7%95%D6%B9%D7%9F&random=%D7%A9%D7%81%D6%B6%D7%A7%D6%B6%D7%A8&width=435&lines=Hello%2C+I'm+AcrasKing;Don't+be+shy%2C+be+a+hero!+%F0%9F%98%89)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm AcrasKing</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acrasking&label=Profile%20views&color=0e75b6&style=flat" alt="acrasking" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acrasking" alt="acrasking" /></a> </p>
@@ -15,7 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="acrasking" height="30" width="40" /></a>
+<a href="https://dev.to/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="acrasking" height="30" width="40" /></a>
+<a href="https://twitter.com/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acrasking" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acrasking" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="acrasking" height="30" width="40" /></a>
+<a href="https://codesandbox.com/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="acrasking" height="30" width="40" /></a>
+<a href="https://fb.com/acrasking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="acrasking" height="30" width="40" /></a>
+<a href="https://instagram.com/man_nice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="man_nice" height="30" width="40" /></a>
 <a href="https://discord.gg/AcrasKing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AcrasKing" height="30" width="40" /></a>
 </p>
 
