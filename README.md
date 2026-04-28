@@ -47,23 +47,41 @@ const meir = {
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acresking&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&title_color=e6c76b" />
 
 </div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/acresking/acresking/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/acresking/acresking/blob/output/github-contribution-grid-snake.svg?raw=true" />
-  <img alt="GitHub contribution snake animation" src="https://github.com/acresking/acresking/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acresking/acresking/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acresking/acresking/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/acresking/acresking/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
-💬 Contact
+
+---
+
+## 💬 Contact
+
 <div align="center">
 
 Want to build something clean, useful and professional?
 
-<a href="https://meirportfolio.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-e6c76b?style=for-the-badge&logo=google-chrome&logoColor=111827" /> </a> </div>
+<a href="https://meirportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-e6c76b?style=for-the-badge&logo=google-chrome&logoColor=111827" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
-Built with focus, clean design and real product thinking.
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e6c76b,50:1e293b,100:0f172a" /> </div> ```
+
+### Built with focus, clean design and real product thinking.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e6c76b,50:1e293b,100:0f172a" />
+
+</div>
